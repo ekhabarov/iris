@@ -1,3 +1,2 @@
 BOOTLOADER = atmel-dfu
 RGBLIGHT_ENABLE = no
-
